@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-nord-theme",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "nord-theme",
+    "description": ""
+  },
+  "main": "index.js"
+}
