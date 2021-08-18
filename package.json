@@ -1,10 +1,40 @@
 {
-  "name": "insomnia-plugin-nord-theme",
-  "version": "0.0.1",
-  "private": true,
+  "name": "insomnia-plugin-theme-nord",
+  "version": "1.0.0",
+  "description": "An arctic, north-bluish clean and elegant Insomnia color scheme by Arctic Ice Studio.",
   "insomnia": {
     "name": "nord-theme",
-    "description": ""
+    "description": "An arctic, north-bluish clean and elegant Insomnia color scheme by Arctic Ice Studio."
   },
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwyx/insomnia-plugin-theme-nord.git"
+  },
+  "author": {
+    "name": "Bayu Kurnia",
+    "email": "hi@bayukurnia.com",
+    "url": "https://bayukurnia.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwyx/insomnia-plugin-theme-nord/issues"
+  },
+  "homepage": "https://github.com/bwyx/insomnia-plugin-theme-nord#readme",
+  "keywords": [
+    "insomnia",
+    "insomnia-plugin",
+    "nord",
+    "arctic",
+    "north",
+    "bluish",
+    "clean",
+    "minimal",
+    "flat",
+    "ui",
+    "syntax"
+  ]
 }
